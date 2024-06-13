@@ -1,0 +1,38 @@
+body{
+  background-color: yellow;
+}
+
+#title {
+  margin: auto 75px;
+  background-color: darkslategray;
+  color: white;
+  text-align: center;
+  font-weight: 300px;
+  font-size: 50px;
+}
+#recipes{
+  margin: auto 50px;
+}
+li {
+  background-color: peachpuff;
+  margin-right: 75px;
+}
+
+.one{
+  color: black;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 500px;
+}
+.two{
+  color: green;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 500px;
+}
+.three{
+  color: orange;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 500px;
+}
